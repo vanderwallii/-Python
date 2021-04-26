@@ -1,0 +1,8 @@
+a = input ("Введите число a: ")
+a = int(a)
+b = input ("Введите число b: ")
+b = int(b)
+print("a + b = ", a + b)
+print("a - b = ", a - b)
+print("a * b = ", a * b)
+print("a / b = ", a / b)
