@@ -23,3 +23,13 @@
 | Практическая 15 - [[Python]](./Practice/15/) 
 | Практическая 16 - [[Python]](./Practice/16/) 
 | Практическая 17 - [[Python]](./Practice/17/)  
+| Практическая 18 - [[Python]](./Practice/18/) 
+| Практическая 19 - [[Python]](./Practice/19/) 
+| Практическая 20 - [[Python]](./Practice/20/) 
+| Практическая 21 - [[Python]](./Practice/21/) 
+| Практическая 22 - [[Python]](./Practice/22/)
+| Практическая 24 - [[Python]](./Practice/24/) 
+| Практическая 25 - [[Python]](./Practice/25/)
+| Практическая 27 - [[Python]](./Practice/27/) 
+| Практическая 28 - [[Python]](./Practice/28/) 
+
